@@ -26,3 +26,6 @@ C++ in Competitive Programming,
 Puzzles, 
 Interview Questions, 
 Multiple Choice Questions
+
+![新任务](https://github.com/SenWang53/myCPP/assets/97141078/b8245eb7-2c29-412b-b0e5-6656c848d0af)
+
